@@ -50,23 +50,23 @@ Below are screenshots captured during implementation and testing.
 
 ### 🔐 Login Screen
 
-![Login](./screenshot/login.png)
+![Login](./screenshot/login.png.png)
 
 ### 💬 Chats
 
-![Chats](./screenshot/chats.png)
+![Chats](./screenshot/chats.png.png)
 
 ### 👥 Users List
 
-![Users](./screenshot/users.png)
+![Users](./screenshot/users.png.png)
 
 ### 👨‍👩‍👧 Groups
 
-![Groups](./screenshot/goups.png)
+![Groups](./screenshot/goups.png.png)
 
 ### 📞 Calls
 
-![Calls](./screenshot/calls.png)
+![Calls](./screenshot/calls.png.png)
 
 ---
 
@@ -116,16 +116,6 @@ A detailed PDF with:
 
 📌 Included here:  
 `/docs/cometchat_review.pdf`
-
----
-
-## 📬 Submission Requirements
-
-- **GitHub Repo URL**
-- **Readme with screenshots (this file)**
-- **PDF review document**
-- Send everything to:  
-  **careers.intern@cometchat.com**
 
 ---
 
